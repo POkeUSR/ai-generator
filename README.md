@@ -1,11 +1,18 @@
-Features
+• AI-powered generation of advertising copy
 
-AI-генерация рекламных текстов
+• Support for 13 proven copywriting frameworks
+  (AIDA, PAS, BAB, 4U and others)
 
-13 моделей копирайтинга
+• Automatic generation of:
+  - headlines
+  - offers
+  - calls to action
+  - ad descriptions
 
-генерация маркетинговых креативов
+• Marketing creative generation based on
+  customer persona and pain points
 
-интерактивный интерфейс
+• Interactive web interface built with Streamlit
 
-генерация случайных портретов клиентов
+• Random customer persona generator
+  for testing marketing scenarios
